@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Nilesh Chourasia
 Donate link: ''
-Tags: WooCommerce, Payment Gateway, PayU Money, PayU Paisa, PayU India, PayU, Currency conversion, Indian Payment Gateway
+Tags: WooCommerce, Payment Gateway, PayU Money, PayU Paisa, PayU India, PayU, Currency conversion, Indian Payment Gateway, Woocommerce PayU Paisa, Woocommerce PayU Money, PayU
 Requires at least: 3.5.1
 Tested up to: 4.2.2
 Stable tag: 4.2.2
